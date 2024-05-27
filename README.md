@@ -1,3 +1,1 @@
-# Offical Portfolio for Amanuel
-
-https://amanuel.io
+# https://aman.ceo
